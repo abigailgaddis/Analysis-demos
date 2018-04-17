@@ -1,7 +1,9 @@
 ;========================================================================================
 ; Calculates the jet latitude index and maximum speed. Compares observational wind data 
-; to model wind data at the Atlantic jet region: 0-60W, 15-75N, and outputs wind max 
-; speed and latitude over time, and pdf of wind max and lat for observations and model
+; to model wind data at the Atlantic jet region: 0-60W, 15-75N at 850mb. Outputs maximum 
+; wind speed and latitude over time, as well as the frequency distributions of the 
+; latitude and value of the maximum jet speed. This is compared with observational 
+; values for use as a model diagnostic.
 ;
 ;
 ; 2/3/2015
