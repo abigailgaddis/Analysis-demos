@@ -1,4 +1,4 @@
-# R-demos
+# Analysis-demos
 
 This is a set of scripts demoing the use of different machine learning and statistical algorithms. The purpose is to build up a record of best practices around using these algorithms, error and accuracy checking, and plotting for my own reference. Its also a good example of what I can do! 
 
